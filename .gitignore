@@ -1,0 +1,12 @@
+*.obj
+*.sdf
+*.pdb
+*.o
+*.tlog
+*.*.tlog
+*.*.*.tlog
+*.log
+*.idb
+
+*.svn-base
+.svn/
